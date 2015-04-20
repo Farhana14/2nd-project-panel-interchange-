@@ -1,0 +1,8 @@
+C:\Users\Pinky\Documents\Visual Studio 2010\Projects\panel moving(hw)\panel moving(hw)\bin\Debug\panel moving(hw).exe
+C:\Users\Pinky\Documents\Visual Studio 2010\Projects\panel moving(hw)\panel moving(hw)\bin\Debug\panel moving(hw).pdb
+C:\Users\Pinky\Documents\Visual Studio 2010\Projects\panel moving(hw)\panel moving(hw)\obj\x86\Debug\panel_moving_hw_.Properties.Resources.resources
+C:\Users\Pinky\Documents\Visual Studio 2010\Projects\panel moving(hw)\panel moving(hw)\obj\x86\Debug\panel moving(hw).csproj.GenerateResource.Cache
+C:\Users\Pinky\Documents\Visual Studio 2010\Projects\panel moving(hw)\panel moving(hw)\obj\x86\Debug\panel moving(hw).exe
+C:\Users\Pinky\Documents\Visual Studio 2010\Projects\panel moving(hw)\panel moving(hw)\obj\x86\Debug\panel moving(hw).pdb
+C:\Users\Pinky\Documents\Visual Studio 2010\Projects\panel moving(hw)\panel moving(hw)\obj\x86\Debug\panel_moving_hw_.panelmoving.resources
+C:\Users\Pinky\Documents\Visual Studio 2010\Projects\panel moving(hw)\panel moving(hw)\obj\x86\Debug\panel moving(hw).csprojResolveAssemblyReference.cache
